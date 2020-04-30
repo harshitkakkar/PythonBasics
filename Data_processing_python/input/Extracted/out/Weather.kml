@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3">
+        <Placemark id="5">
+            <name>JAN MAYEN(NOR-NAVY)</name>
+            <Point id="4">
+                <coordinates>-8.667,70.933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>VERLEGENHUKEN</name>
+            <Point id="6">
+                <coordinates>16.25,80.05,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>HORNSUND</name>
+            <Point id="8">
+                <coordinates>15.5,77.0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>NY-ALESUND II</name>
+            <Point id="10">
+                <coordinates>11.933,78.917,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

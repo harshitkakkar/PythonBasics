@@ -1,0 +1,21 @@
+======================================
+Logging time: Wed Mar 11 10:10:12 2015
+======================================
+
+Context
+-------
+
+setcwd(r'C:\Users\adi.adi-PC\Documents\Python Scripts')
+
+Traceback
+---------
+
+Traceback (most recent call last):
+  File "C:\Anaconda3\lib\site-packages\spyderlib\widgets\externalshell\monitor.py", line 550, in run
+    result = eval(command, glbs, lcls)
+  File "<string>", line 1, in <module>
+  File "C:\Anaconda3\lib\site-packages\spyderlib\widgets\externalshell\monitor.py", line 410, in setcwd
+    dirname = dirname.decode('utf-8')
+AttributeError: 'str' object has no attribute 'decode'
+
+
